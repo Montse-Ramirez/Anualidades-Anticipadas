@@ -4,7 +4,7 @@ Cuando los pagos se realizan al inicio del periodo de pago se llaman anualidades
 ## Funciones de anualidades anticipadas 
 Con el siguiente código, puede usted cargar las funciones de anualidades anticipadas:
 ```{r}
-source("https://raw.githubusercontent.com/sergiodiazgonzalez/Anualidades-anticipadas/refs/heads/main/AnualidadesAnticipadas1.R")
+source("https://raw.githubusercontent.com/Montse-Ramirez/Anualidades-Anticipadas/refs/heads/main/FuncionesAnualidadesAnticipadas.R")
 ```
 A continuación se dan ejemplos del uso de las fórmulas correspondientes
 ## Valor futuro
